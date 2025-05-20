@@ -82,3 +82,9 @@ Percorso: /opt/app/privato.txt
 Accessibile solo a: utente app (e opzionalmente omenicoarde se usi gruppo condiviso)
 
 Permessi: -rw-rw---- (chmod 660)
+
+
+
+screenshot dimostrativo:
+![image](https://github.com/user-attachments/assets/3b97684b-31fe-448c-ad99-9e8b04d873ca)
+
